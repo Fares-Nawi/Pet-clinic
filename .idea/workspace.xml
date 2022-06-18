@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="Implement Interfaces for services. Closes #5.">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/BaseEntity.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="adding base entity. Closes #10.">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/CrudService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/OwnerService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655572534172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding base entity. Closes #10.">
+      <created>1655573132668</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655573132668</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +150,7 @@
     <MESSAGE value="adding POJO. Closes #2." />
     <MESSAGE value="refactoring to multimodule maven project. Closes #1." />
     <MESSAGE value="Implement Interfaces for services. Closes #5." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Interfaces for services. Closes #5." />
+    <MESSAGE value="adding base entity. Closes #10." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding base entity. Closes #10." />
   </component>
 </project>
