@@ -4,17 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="Initial Project Add">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/PetType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Vet.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="adding POJO. Closes #2.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/SfgPetClinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/SfgPetClinicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/PetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fares/springframework/sfgpetclinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Vet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fares/springframework/sfgpetclinic/SfgPetClinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/test/java/sfgpetclinic/SfgPetClinicApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +71,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "/home/fares/Documents/springboot/sfg-pet-clinic/pom.xml"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fares.springframework.sfgpetclinic.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651425799644</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding POJO. Closes #2.">
+      <created>1655543411639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655543411639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Add" />
+    <MESSAGE value="adding POJO. Closes #2." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding POJO. Closes #2." />
   </component>
 </project>
