@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="adding Index Page and controller. Closes #8.">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/VetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="adding vets page and controller. Closes #7.">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/OwnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655625895654</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adding vets page and controller. Closes #7.">
+      <created>1655627807567</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655627807569</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +204,7 @@
     <MESSAGE value="refactoring to common crud interface. Closes #11." />
     <MESSAGE value="Implement Map based Services. Closes #6." />
     <MESSAGE value="adding Index Page and controller. Closes #8." />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Index Page and controller. Closes #8." />
+    <MESSAGE value="adding vets page and controller. Closes #7." />
+    <option name="LAST_COMMIT_MESSAGE" value="adding vets page and controller. Closes #7." />
   </component>
 </project>
