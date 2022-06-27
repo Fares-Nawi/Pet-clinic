@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="Refactored Map Impl to abstract ID generation. Closes #23.">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/pets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/platform-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/spring-logo-dataflow-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/spring-logo-dataflow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/spring-pivotal-logo.png" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="Adding static resources . Closes #17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/owners/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +74,12 @@
       <recent name="fares.springframework.sfgpetclinic.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -240,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655833111930</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adding static resources . Closes #17">
+      <created>1656339242379</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656339242379</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +264,7 @@
     <MESSAGE value="Added Owner List and updated controller. Closes #16." />
     <MESSAGE value="Added Vet List and updated controller. Closes #15." />
     <MESSAGE value="Refactored Map Impl to abstract ID generation. Closes #23." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored Map Impl to abstract ID generation. Closes #23." />
+    <MESSAGE value="Adding static resources . Closes #17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding static resources . Closes #17" />
   </component>
 </project>
