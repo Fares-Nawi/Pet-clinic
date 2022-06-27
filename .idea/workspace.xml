@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="copied templates from spring pet clinic . Closes #18">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/header.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/petclinic.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/responsive.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/typography.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added wro4 plugin and config from Spring Pet Clinic . Closes #24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/montserrat-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/fonts/varela_round-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/pets.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/images/pets.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/platform-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/images/platform-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/spring-logo-dataflow-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/images/spring-logo-dataflow-mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/spring-logo-dataflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/images/spring-logo-dataflow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces/images/spring-pivotal-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resources/images/spring-pivotal-logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656339795678</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added wro4 plugin and config from Spring Pet Clinic . Closes #24">
+      <created>1656342168591</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656342168591</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +282,7 @@
     <MESSAGE value="Refactored Map Impl to abstract ID generation. Closes #23." />
     <MESSAGE value="Adding static resources . Closes #17" />
     <MESSAGE value="copied templates from spring pet clinic . Closes #18" />
-    <option name="LAST_COMMIT_MESSAGE" value="copied templates from spring pet clinic . Closes #18" />
+    <MESSAGE value="added wro4 plugin and config from Spring Pet Clinic . Closes #24" />
+    <option name="LAST_COMMIT_MESSAGE" value="added wro4 plugin and config from Spring Pet Clinic . Closes #24" />
   </component>
 </project>
