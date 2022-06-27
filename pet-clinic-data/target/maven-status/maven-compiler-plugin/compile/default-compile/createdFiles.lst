@@ -1,0 +1,14 @@
+fares/springframework/sfgpetclinic/services/map/AbstractMapService.class
+fares/springframework/sfgpetclinic/model/Person.class
+fares/springframework/sfgpetclinic/services/VetService.class
+fares/springframework/sfgpetclinic/services/map/PetServiceMap.class
+fares/springframework/sfgpetclinic/services/map/OwnerServiceMap.class
+fares/springframework/sfgpetclinic/services/CrudService.class
+fares/springframework/sfgpetclinic/model/Vet.class
+fares/springframework/sfgpetclinic/services/map/VetServiceMap.class
+fares/springframework/sfgpetclinic/model/Pet.class
+fares/springframework/sfgpetclinic/model/PetType.class
+fares/springframework/sfgpetclinic/services/OwnerService.class
+fares/springframework/sfgpetclinic/model/BaseEntity.class
+fares/springframework/sfgpetclinic/services/PetService.class
+fares/springframework/sfgpetclinic/model/Owner.class

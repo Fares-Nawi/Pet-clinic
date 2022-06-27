@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added wro4 plugin and config from Spring Pet Clinic . Closes #24">
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="adding layout to index page . closes #19">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/messages/messages_en.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +69,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
     "last_directory_selection": "/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic",
-    "last_opened_file_path": "/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-web/src/main",
+    "last_opened_file_path": "/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-web/src/main/resources",
     "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
@@ -74,11 +78,11 @@
       <recent name="fares.springframework.sfgpetclinic.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces" />
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static" />
-      <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/resouces" />
@@ -250,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656342168591</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="adding layout to index page . closes #19">
+      <created>1656347851996</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656347851996</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,6 +294,7 @@
     <MESSAGE value="Adding static resources . Closes #17" />
     <MESSAGE value="copied templates from spring pet clinic . Closes #18" />
     <MESSAGE value="added wro4 plugin and config from Spring Pet Clinic . Closes #24" />
-    <option name="LAST_COMMIT_MESSAGE" value="added wro4 plugin and config from Spring Pet Clinic . Closes #24" />
+    <MESSAGE value="adding layout to index page . closes #19" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding layout to index page . closes #19" />
   </component>
 </project>
