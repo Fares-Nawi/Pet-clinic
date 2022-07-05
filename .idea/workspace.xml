@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added layout to vets index page . closes #21">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Visit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Owner.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added visits, updated owner with pet relationship . closes #26">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Speciality.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656350957715</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added visits, updated owner with pet relationship . closes #26">
+      <created>1657016774316</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1657016774316</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,6 +329,7 @@
     <MESSAGE value="fixed i18n . closes #25" />
     <MESSAGE value="added layout to owners index page . closes #20" />
     <MESSAGE value="added layout to vets index page . closes #21" />
-    <option name="LAST_COMMIT_MESSAGE" value="added layout to vets index page . closes #21" />
+    <MESSAGE value="added visits, updated owner with pet relationship . closes #26" />
+    <option name="LAST_COMMIT_MESSAGE" value="added visits, updated owner with pet relationship . closes #26" />
   </component>
 </project>
