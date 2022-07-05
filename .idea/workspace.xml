@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added properties . closes #28">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/PetTypeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/map/PetTypeMapService.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added PetTypeService . closes #29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/bootstrap/DataLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657017338590</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added PetTypeService . closes #29">
+      <created>1657018210397</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657018210397</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +329,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Project Add" />
     <MESSAGE value="adding POJO. Closes #2." />
     <MESSAGE value="refactoring to multimodule maven project. Closes #1." />
     <MESSAGE value="Implement Interfaces for services. Closes #5." />
@@ -348,6 +353,7 @@
     <MESSAGE value="added visits, updated owner with pet relationship . closes #26" />
     <MESSAGE value="added specialties, added to vet . closes #27" />
     <MESSAGE value="added properties . closes #28" />
-    <option name="LAST_COMMIT_MESSAGE" value="added properties . closes #28" />
+    <MESSAGE value="added PetTypeService . closes #29" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PetTypeService . closes #29" />
   </component>
 </project>
