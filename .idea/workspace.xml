@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added Specialities Map Impl . closes #31">
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="adding specialties to vets on startup . closes #34">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/notimplemented.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/SpecialtiesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/SpecialtyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/map/SpecialtyMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/map/SpecialtyMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/bootstrap/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/OwnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/VetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/controllers/VetController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -337,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657147072983</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="adding specialties to vets on startup . closes #34">
+      <created>1657219154173</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1657219154173</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +360,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding base entity. Closes #10." />
     <MESSAGE value="refactoring to common crud interface. Closes #11." />
     <MESSAGE value="Implement Map based Services. Closes #6." />
     <MESSAGE value="adding Index Page and controller. Closes #8." />
@@ -377,6 +384,7 @@
     <MESSAGE value="added PetType to bootstrap . closes #32" />
     <MESSAGE value="added Pet and Contact info to owners on startup . closes #33" />
     <MESSAGE value="added Specialities Map Impl . closes #31" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Specialities Map Impl . closes #31" />
+    <MESSAGE value="adding specialties to vets on startup . closes #34" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding specialties to vets on startup . closes #34" />
   </component>
 </project>
