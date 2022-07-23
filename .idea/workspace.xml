@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="updated owner with JPA annotation . Closes #37">
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="updated vet with JPA annotations . Closes #38">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Speciality.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Speciality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Vet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Visit.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/model/Visit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,17 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_directory_selection": "/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic",
-    "last_opened_file_path": "/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-web/src/main/resources",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/fares/Documents/springboot/sfg-pet-clinic/pet-clinic-web/src/main/resources&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="fares.springframework.sfgpetclinic.model" />
@@ -372,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658418937986</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="updated vet with JPA annotations . Closes #38">
+      <created>1658419715688</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1658419715688</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,7 +394,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding owners page and controller. Closes #13." />
     <MESSAGE value="adding bootstrap for data. Closes #14." />
     <MESSAGE value="adding Spring Config. Closes #22." />
     <MESSAGE value="Added Owner List and updated controller. Closes #16." />
@@ -412,6 +418,7 @@
     <MESSAGE value="updated base entity with JPA annotation .closes#36" />
     <MESSAGE value="updated base entity with JPA annotation . Closes #36" />
     <MESSAGE value="updated owner with JPA annotation . Closes #37" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated owner with JPA annotation . Closes #37" />
+    <MESSAGE value="updated vet with JPA annotations . Closes #38" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated vet with JPA annotations . Closes #38" />
   </component>
 </project>
