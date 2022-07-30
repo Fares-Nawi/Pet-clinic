@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="updated Visit with JPA annotations . Closes #39">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/OwnerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/PetRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/PetTypeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/SpecialityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/VetRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/VisitRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="implemented repositories . Closes #40">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/springdatajpa/OwnerSDJpaService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/OwnerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/OwnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/css/petclinic.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -393,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658594617119</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="implemented repositories . Closes #40">
+      <created>1659200982852</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1659200982852</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding Spring Config. Closes #22." />
     <MESSAGE value="Added Owner List and updated controller. Closes #16." />
     <MESSAGE value="Added Vet List and updated controller. Closes #15." />
     <MESSAGE value="Refactored Map Impl to abstract ID generation. Closes #23." />
@@ -433,6 +434,7 @@
     <MESSAGE value="updated owner with JPA annotation . Closes #37" />
     <MESSAGE value="updated vet with JPA annotations . Closes #38" />
     <MESSAGE value="updated Visit with JPA annotations . Closes #39" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated Visit with JPA annotations . Closes #39" />
+    <MESSAGE value="implemented repositories . Closes #40" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented repositories . Closes #40" />
   </component>
 </project>
