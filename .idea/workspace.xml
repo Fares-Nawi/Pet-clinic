@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added spring data jpa service for pet types . Closes #43">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/springdatajpa/PetSDJpaService.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added spring data jpa service for pets . Closes #44">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/springdatajpa/SpecialtySDJpaService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -413,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659203604221</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="added spring data jpa service for pets . Closes #44">
+      <created>1659203871972</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1659203871972</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,7 +435,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding static resources . Closes #17" />
     <MESSAGE value="copied templates from spring pet clinic . Closes #18" />
     <MESSAGE value="added wro4 plugin and config from Spring Pet Clinic . Closes #24" />
     <MESSAGE value="adding layout to index page . closes #19" />
@@ -453,6 +459,7 @@
     <MESSAGE value="added spring data jpa service for owners . Closes #41" />
     <MESSAGE value="added spring data jpa service for vets . Closes #42" />
     <MESSAGE value="added spring data jpa service for pet types . Closes #43" />
-    <option name="LAST_COMMIT_MESSAGE" value="added spring data jpa service for pet types . Closes #43" />
+    <MESSAGE value="added spring data jpa service for pets . Closes #44" />
+    <option name="LAST_COMMIT_MESSAGE" value="added spring data jpa service for pets . Closes #44" />
   </component>
 </project>
