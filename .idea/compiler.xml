@@ -8,11 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pet-clinic-web" />
-      </profile>
-      <profile name="Annotation profile for sfg-pet-clinic" enabled="true">
-        <sourceOutputDir name="../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="pet-clinic-data" />
       </profile>
     </annotationProcessing>
@@ -21,7 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="pet-clinic-data" options="-parameters" />
       <module name="pet-clinic-web" options="-parameters" />
-      <module name="sfg-pet-clinic" options="-parameters" />
+      <module name="sfg-pet-clinic" options="" />
     </option>
   </component>
 </project>
