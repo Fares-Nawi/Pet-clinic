@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="implemented repositories . Closes #40">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/springdatajpa/OwnerSDJpaService.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added spring data jpa service for owners . Closes #41">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/springdatajpa/VetSDJpaService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/OwnerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/repositories/OwnerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/static/resources/css/petclinic.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659200982852</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="added spring data jpa service for owners . Closes #41">
+      <created>1659202625435</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1659202625435</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Owner List and updated controller. Closes #16." />
     <MESSAGE value="Added Vet List and updated controller. Closes #15." />
     <MESSAGE value="Refactored Map Impl to abstract ID generation. Closes #23." />
     <MESSAGE value="Adding static resources . Closes #17" />
@@ -435,6 +439,7 @@
     <MESSAGE value="updated vet with JPA annotations . Closes #38" />
     <MESSAGE value="updated Visit with JPA annotations . Closes #39" />
     <MESSAGE value="implemented repositories . Closes #40" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented repositories . Closes #40" />
+    <MESSAGE value="added spring data jpa service for owners . Closes #41" />
+    <option name="LAST_COMMIT_MESSAGE" value="added spring data jpa service for owners . Closes #41" />
   </component>
 </project>
