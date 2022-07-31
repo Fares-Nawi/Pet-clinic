@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="added spring data jpa service for specialties . Closes #45">
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/VisitService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/map/VisitMapService.java" afterDir="false" />
+    <list default="true" id="55e64580-179b-4eea-8dc2-ac334a97edbe" name="Changes" comment="Implement Map impl for Visit Service . Closes #47">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/fares/springframework/sfgpetclinic/services/springdatajpa/VisitSDJpaService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/fares/springframework/sfgpetclinic/bootstrap/DataLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -429,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659204222501</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Implement Map impl for Visit Service . Closes #47">
+      <created>1659291185751</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1659291185751</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added wro4 plugin and config from Spring Pet Clinic . Closes #24" />
     <MESSAGE value="adding layout to index page . closes #19" />
     <MESSAGE value="fixed i18n . closes #25" />
     <MESSAGE value="added layout to owners index page . closes #20" />
@@ -469,6 +475,7 @@
     <MESSAGE value="added spring data jpa service for pet types . Closes #43" />
     <MESSAGE value="added spring data jpa service for pets . Closes #44" />
     <MESSAGE value="added spring data jpa service for specialties . Closes #45" />
-    <option name="LAST_COMMIT_MESSAGE" value="added spring data jpa service for specialties . Closes #45" />
+    <MESSAGE value="Implement Map impl for Visit Service . Closes #47" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Map impl for Visit Service . Closes #47" />
   </component>
 </project>
